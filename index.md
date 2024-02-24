@@ -11,3 +11,6 @@
 System.out.println("Hello markdown!");
 ```
 
+- [ ] Make chocolate cake
+- [ ] Eat chocolate cake
+- [x] Enjoy your day!
